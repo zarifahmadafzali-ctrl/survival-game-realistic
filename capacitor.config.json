@@ -1,0 +1,6 @@
+{
+  "appId": "com.stillwater.game",
+  "appName": "Stillwater",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}

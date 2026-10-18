@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Stillwater">
+  <rect width="32" height="32" rx="7" fill="#101612"/>
+  <path fill="#e4ecdf" d="M2 19 9.2 8 14 14.4 19.6 6.2 30 19Z"/>
+  <path fill="#1e6a45" d="M5 19.5 11.2 9.2 17.4 19.5Z"/>
+  <rect x="2" y="18.6" width="28" height="10.4" fill="#17666f"/>
+  <circle cx="24.2" cy="8" r="2.2" fill="#e0a45a"/>
+</svg>
